@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "261842612280",
+    "project_id": "jojua-fe1e3",
+    "storage_bucket": "jojua-fe1e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:261842612280:android:77ccd8a3316653802ff6cd",
+        "android_client_info": {
+          "package_name": "com.example.jojua"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "261842612280-in7r7dp074qm9f3do92snl1uq3fv6lcv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfrSRFAhHntExiBDURWAP9sEl117hYqUM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "261842612280-in7r7dp074qm9f3do92snl1uq3fv6lcv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
